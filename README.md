@@ -4,7 +4,7 @@ The objective of this challenge is to generate a brief report on scam-related ac
 
 - Entity Name (*name of the project you chose*)
 - Entity Type: `Cryptocurrency Exchange`, `Token`, `Wallet`, `Blockchain`, `Lending Platform`, or `Stablecoin`.
-- Top 2 scams related to the project - either the project's direct involvement in a scam or its exploitation by malicious actors:
+- Find ana analyze the information on the top 2 scams related to the project - either the project's direct involvement in a scam or its exploitation by malicious actors. Add it to the report:
   - Date (at least month and year)
   - Description of the incident
 - Collect a minimum of 500 Google News mentions of this entity over a minimum one-month period, encompassing the period from 2022 to 2023. Create visualizations illustrating descriptive statistics, specifically highlighting the number of these mentions associated with scams compared to all mentions. Add the visualizations and analysis to the report.
