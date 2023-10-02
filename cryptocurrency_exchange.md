@@ -19,10 +19,10 @@ As a result of these actions, the criminals behind DoubleFinger gain control of 
 The dataset was collected from the first 200 google responses to a query related to the topic. Since the search engine’s goal is to provide the most relevant answers by date, out of more than 15,000 responses, there were only 276 unique articles for the last month. I created a special rules with keywords to identify scam related titles.
 Below is the data showing the ratio of scam-related mentions for Crypto exchange articles on Google News from 2023-09-02 to 2023-10-02:
 
-<img width="1440" alt="image" src="">
+<img width="1440" alt="image" src="https://github.com/road2global/crypto-scams-challenge/blob/CCDA-1/images/scam_2.png">
 
 The pie chart below indicates that mentions of scam in articles on Google News represented 5% of all mentions.
 
-<img width="776" alt="image" src="">
+<img width="776" alt="image" src="https://github.com/road2global/crypto-scams-challenge/blob/CCDA-1/images/scam_1.png">
 
 #### At the moment, the main methods of scam related to the crypto exchanges are already known or some of them are still hidden, thus we see such a small proportion of scam articles.
