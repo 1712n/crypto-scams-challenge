@@ -23,6 +23,6 @@ Below is the data showing the ratio of scam-related mentions for Crypto exchange
 
 The pie chart below indicates that mentions of scam in articles on Google News represented 4.86% of all mentions.
 
-<img width="776" alt="image" src="https://github.com/road2global/crypto-scams-challenge/blob/CCDA-1/images/scam_3.png">
+<img width="776" alt="image" src="https://github.com/road2global/crypto-scams-challenge/blob/CCDA-1/images/scam_4.png">
 
 #### At the moment, the main methods of scam related to the crypto exchanges are already known or some of them are still hidden, thus we see such a small proportion of scam articles.
