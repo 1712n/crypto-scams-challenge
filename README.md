@@ -1,13 +1,13 @@
 # crypto-scams-challenge
 
-The objective of this challenge is to generate a brief report on scam-related activities associated with various cryptocurrency projects. The report should include the following sections:
+The objective of this challenge is to generate a brief report on scam-related activities associated with various cryptocurrency projects. Please, choose one entity that you will analyze in the report. The report should include the following sections:
 
 - Entity Name (*name of the project you chose*)
 - Entity Type: `Cryptocurrency Exchange`, `Token`, `Wallet`, `Blockchain`, `Lending Platform`, or `Stablecoin`.
 - Top 2 scams related to the project - either the project's direct involvement in a scam or its exploitation by malicious actors:
   - Date (at least month and year)
   - Description of the incident
-- Collect a minimum of 500 Google News mentions of this entity over a minimum one-month period, encompassing the period from 2022 to 2023. Create visualizations illustrating descriptive statistics, specifically highlighting the number of these mentions associated with scams compared to all mentions.
+- Collect a minimum of 500 Google News mentions of this entity over a minimum one-month period, encompassing the period from 2022 to 2023. Create visualizations illustrating descriptive statistics, specifically highlighting the number of these mentions associated with scams compared to all mentions. Add the visualizations and analysis to the report.
 
 #### Notes:
 
