@@ -1,6 +1,6 @@
 # crypto-scams-challenge
 
-The objective of this challenge is to generate a brief report on scam-related activities associated with various cryptocurrency projects. Please, choose one entity that you will analyze in the report. The report should be submitted as an .md file and include the following sections:
+The objective of this challenge is to generate a brief report on scam-related activities associated with various cryptocurrency projects. Please, choose one entity that you will analyze in the report. The report should be submitted as .md file and include the following sections:
 
 - Entity Name (*name of the project you chose*)
 - Entity Type: `Cryptocurrency Exchange`, `Token`, `Wallet`, `Blockchain`, `Lending Platform`, or `Stablecoin`.
