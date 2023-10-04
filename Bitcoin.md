@@ -22,4 +22,4 @@ https://news.google.com/rss/articles/CBMieGh0dHBzOi8vd3d3LnZhbmNvdXZlcmlzbGFuZGZ
 
 The pie chart below indicates that mentions of Bitcoin related to scams on Google News represented 0.5% of all mentions.
 
-<img width="776" alt="image" src="https://raw.githubusercontent.com/re1ative/test-task/main/assets/8f736df705178fed864c48fadbda50a357462e8f.png">
+<img width="776" alt="image" src="https://raw.githubusercontent.com/re1ative/crypto-scams-challenge/main/assets/8f736df705178fed864c48fadbda50a357462e8f.png">
