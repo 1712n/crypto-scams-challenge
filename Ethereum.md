@@ -18,10 +18,11 @@ Using the gnews library, I gathered news articles from June 2023 and curated 681
 
 Below is the data showing the ratio of scam-related mentions of Ethereum on Google News during June 2023:
 
-![image](https://github.com/VictorKhomyakov/crypto-scams-challenge/assets/68606131/1329fec0-314b-4d9d-b711-dbc7a03e22bb)
+![image](https://github.com/VictorKhomyakov/crypto-scams-challenge-eth/assets/68606131/a7f76fc4-e9d9-4aec-a079-561e1e619bd7)
 
 
 The pie chart below indicates that mentions of Ethereum related to scams on Google News represented 5.9% of all mentions.
 
-![image](https://github.com/VictorKhomyakov/crypto-scams-challenge/assets/68606131/a995ac9c-9e0c-4d7c-b7df-cb7ccfb9e066)
+![image](https://github.com/VictorKhomyakov/crypto-scams-challenge-eth/assets/68606131/bbd355d8-ea34-49c8-806d-0c79e9cff247)
+
 
