@@ -1,5 +1,9 @@
 # crypto-scams-challenge
 
+## Important Note
+
+We are closing this challenge and no longer accept new submissions. To everyone who has already submitted an application - don't worry, we'll carefully review all submissions and provide feedback.
+
 The objective of this challenge is to generate a brief report on scam-related activities associated with various cryptocurrency projects. Please, choose one entity that you will analyze in the report. The report should be submitted as .md file and include the following sections:
 
 - Entity Name (*name of the project you chose*)
