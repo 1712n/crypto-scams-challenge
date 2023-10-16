@@ -1,6 +1,6 @@
 ## Bitcoin
 
-#### Entity type: Token
+#### Entity type: Blockchain, Native Coin
 
 ##### Associated scams
 
