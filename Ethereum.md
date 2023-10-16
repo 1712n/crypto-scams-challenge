@@ -1,6 +1,6 @@
 ## Ethereum
 
-#### Entity type: Token
+#### Entity type: Blockchain
 
 #### Associated scams
 
