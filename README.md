@@ -9,7 +9,7 @@ _________________________
 The objective of this challenge is to generate a brief report on scam-related activities associated with various cryptocurrency projects. Please, choose one entity that you will analyze in the report. The report should be submitted as .md file and include the following sections:
 
 - Entity Name (*name of the project you chose*)
-- Entity Type: `Cryptocurrency Exchange`, `Token`, `Wallet`, `Blockchain`, `Lending Platform`, or `Stablecoin`.
+- Entity Type: `Cryptocurrency Exchange`, `Token`, `Wallet`, `Blockchain`, `Native Coin`, `Lending Platform`, or `Stablecoin`.
 - Find ana analyze the information on the top 2 scams related to the project - either the project's direct involvement in a scam or its exploitation by malicious actors. Add it to the report:
   - Date (at least month and year)
   - Description of the incident
