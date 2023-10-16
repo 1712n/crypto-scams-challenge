@@ -1,6 +1,6 @@
 ## Ether
 
-#### Entity type: Token
+#### Entity type: Native Coin
 
 #### Associated scams
 
